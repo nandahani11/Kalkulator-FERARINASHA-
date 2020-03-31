@@ -1,8 +1,8 @@
-  
 #include<iostream>
 using namespace std;
 
-void_kurang(){  
+void_kurang()
+{  
     int a, b;
     
     cout<<"Masukkan Bilangan Pertama : ";
@@ -12,6 +12,7 @@ void_kurang(){
     cout<<"Hasil Pengurangan = "<<a - b;
 }
 
-main(){
+main()
+{
     void_kurang();
 }
